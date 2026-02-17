@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "governr-ai"
+  },
+  "targets": {
+    "governr-ai": {
+      "hosting": {
+        "trust": [
+          "trust-governr"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
