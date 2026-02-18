@@ -426,6 +426,33 @@ body {
     gap: 1.5rem;
 }
 
+/* Certifications Section - Full Width */
+.certifications-section {
+    margin-top: 1.5rem;
+}
+
+.certifications-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.certifications-card .card-header {
+    flex-direction: column;
+    justify-content: center;
+}
+
+.certifications-card .card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.certifications-card .cert-badges {
+    justify-content: center;
+}
+
 /* Trust Card */
 .trust-card {
     background: var(--card);

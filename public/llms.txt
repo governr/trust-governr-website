@@ -7,6 +7,7 @@
 - Security & Data Protection: Enterprise-grade encryption at rest (AES-256) and in transit (TLS 1.3), role-based access controls with multi-factor authentication, secure cloud infrastructure with 24/7 monitoring, regular penetration testing and vulnerability assessments.
 - Privacy & Compliance: GDPR compliant data handling practices, clear data processing agreements (DPAs), data minimisation principles by design, regular privacy impact assessments.
 - AI Ethics & Responsible AI: Bias detection and mitigation frameworks, model transparency and explainability, human oversight and intervention capabilities, ethical AI guidelines embedded in our platform.
+- AI Infrastructure & Components: Transparent AI technology stack including GLM-5 (Z.ai) for coding assistance, GPT-3o-mini for AI agents, Pydantic AI for type-safe agent development, Fetch MCP Server for secure data retrieval, all hosted on AWS with enterprise-grade security.
 - Service Reliability: 99.9% uptime service level agreement, redundant infrastructure with automatic failover, real-time system health monitoring, defined incident response procedures.
 - Data Governance: Clear data retention policies with defined timeframes, secure data deletion upon request, user data export functionality, full audit trails for data access and modifications.
 
